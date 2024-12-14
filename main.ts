@@ -1,9 +1,9 @@
 import './style.css'
 import p5 from 'p5'
 
-const text =
-  'Proident velit reprehenderit dolore do ullamco id consectetur consequat Lorem qui adipisicing adipisicing ea reprehenderit.'
 // const text =
+//   'Proident velit reprehenderit dolore do ullamco id consectetur consequat Lorem qui adipisicing adipisicing ea reprehenderit.'
+// // const text =
 //   'Nisi ex eiusmod do commodo irure aliqua sint eiusmod magna in nostrud laborum adipisicing. Amet commodo elit laborum aute. Voluptate pariatur sunt ex minim incididunt. Amet sint cillum voluptate commodo laboris sint ex anim est officia Lorem ullamco. Ullamco velit nostrud aute ea duis consectetur ea ad ut et ex nisi laborum duis.'
 
 // const text = 
