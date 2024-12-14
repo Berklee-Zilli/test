@@ -17,7 +17,7 @@ const sketch = (p: p5) => {
   }
   p.setup = () => {
     p.createCanvas(600, 600, p.WEBGL)
-    p.textFont(font)
+p.textFont('Arial')
     // p.textAlign(p.CENTER, p.CENTER)
     p.textSize(50)
   }
